@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ten_things = "Apple Oranges Crows Telephone Light Sugar"
 
 print "Wait there are not 10 things in that list. Let's fix that."

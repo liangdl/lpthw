@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # create a mapping of states to abbreviation
 states = {
 	'Oregon': 'OR',
@@ -42,7 +43,7 @@ for state, abbrev in states.items():
 print '_' * 10
 for abbrev,city in cities.items():
 	print "%s has the city %s" % (abbrev,city)
-	
+
 # now do both at the same time
 print '_' * 10
 for state, abbrev in states.items():
